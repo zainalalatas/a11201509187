@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+table{
+background-color:#FFFFFF;
+font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:18px;
+color:#FF0000;
+border-radius:10px;
+box-shadow:10px 10px 2px 5px black;
+}
+td{
+	padding:12px;
+}
+h2{
+letter-spacing:5px;
+background-color:#66FFFF;
+}
+.gambar{
+	margin-top:150px;
+	margin-left:860px;
+	position:absolute;
+}
+.tombol{
+	font-size:22px;
+	border-radius:15px;
+	box-shadow:3px 3px 0 0 black;
+}
+#gmbr{
+	border-radius:20px;
+}
+
+.tombol:hover{
+	font-size:22px;
+	border-radius:15px;
+	box-shadow:3px 3px 0 0 black;
+	background-color:#FF3333;
+}
